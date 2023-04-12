@@ -1,6 +1,6 @@
 # Nearby Bridges
 
-<img width="455" alt="image" src="https://user-images.githubusercontent.com/2545978/193932252-49362fe2-a81d-4727-8a2f-bfdca78cf0d8.png">
+![image](https://user-images.githubusercontent.com/53794202/231489602-8ac7c8b3-cc82-4c97-b0b3-cae2bb2a5159.png)
 
 ## Eads Bridge, 1867
 
