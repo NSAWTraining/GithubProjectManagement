@@ -1,4 +1,4 @@
-# [WSDS GitHub Workshop Oct 6 8am-12pm](https://ww2.amstat.org/meetings/wsds/2022/courses.cfm)
+# NSAW GitHub Workshop May 8 2pm-5:30pm
 
 <img align="right" src="https://user-images.githubusercontent.com/2545978/193091073-6b38734f-cd28-4946-ab2a-bebdb223d3cb.png" width="20%">  
 
@@ -12,9 +12,9 @@
 
 ### Instructor(s):
 
-* [Elizabeth “Eli” Holmes](https://github.com/eeholmes), NOAA Fisheries, Northwest Fisheries Science Center <a href = "mailto: eli.holmes@noaa.gov">Send Email</a>, <a href = "http://eeholmes.github.io/">Website</a>
+* [Christine Stawitz](https://github.com/christinestawitz-noaa), NOAA Fisheries, Office of Science and Technology <a href = "mailto: christine.stawitz@noaa.gov">Send Email</a>, <a href = "https://cstawitz.github.io/">Website</a>
 
-* [Emily "Em" Markowitz](https://github.com/EmilyMarkowitz-NOAA), NOAA Fisheries, Alaska Fisheries Science Center <a href = "mailto: emily.markowitz@noaa.gov">Send Email</a>, <a href = "https://emilyhmarkowitz.github.io/emilyhmarkowitz/">Website</a>
+* [Molly Stevens](https://github.com/mollystevens-noaa), NOAA Fisheries, Southeast Fisheries Science Center <a href = "mailto: molly.stevens@noaa.gov">Send Email</a>, <a href = "https://www.fisheries.noaa.gov/contact/molly-stevens-phd">Website</a>
 
 ### Training description
 
@@ -24,17 +24,14 @@ Git and GitHub are used throughout the data science community, not just to keep 
 
 Here, everyone will contribute to a markdown document and github project within the github browser. You and your team will contribute to one of the St. Louis topics! 
 
- - **Bridges**: (Eli and Em's demo team) [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/bridges.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/6)
+ - **Bridges**: (Molly and Christine's demo team) [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/bridges.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/6)
  - **Restuarants**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/restuarants.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/3/views/1)
  - **Parks**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/parks.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/8)
- - **Sports**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/sports.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/10)
+ - **Colleges**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/colleges.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/10)
  - **Music**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/music.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/13)
  - **Public Art**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/public_art.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/4)
  - **History**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/history.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/12)
- 
-To make things easier, confine your searches on the surounding 1 square mile:
- 
-<img src="https://user-images.githubusercontent.com/2545978/192898401-594e6f91-0507-45fc-b8ac-167c8fb5d381.png" width="40%"> 
+
 
 ## Code of Conduct
 
@@ -46,9 +43,9 @@ In short, we expect each participant to follow the [workshop's code of conduct](
 
 ## Agenda
 
-**[Presentation slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)**
+**[Presentation slides](https://docs.google.com/presentation/d/12JIhUSuKiEVcRbWAUbm83zBQuUh7b2b2EDaHvUuJ1DE/edit?usp=sharing)**
 
-### *8:00-8:20*: Welcome & Warm Up Activity: Zoo Tycoon!
+### *2:00-2:20*: Welcome & Warm Up Activity: Zoo Tycoon!
 
 <img align="right" src="https://user-images.githubusercontent.com/75965120/193709452-6a94e75b-68cb-4ab2-83f5-4175d183da42.jpg" width="20%">  
 
@@ -64,7 +61,7 @@ If anyone remember's this early 2000's business simulation video computer game, 
     - :heavy_check_mark: **Done**: You did it! Let your team mates know you got the job done.  
  - (5 min each:) Report out! What was in your zoo/exhibit and how efficient was the team at getting the task done? 
 
-### *8:20-8:40* Lecture and Demo: Introduce GitHub
+### *2:20-2:30* Lecture and Demo: Introduce GitHub
 
 <img align="right" src="https://user-images.githubusercontent.com/75965120/194229808-6641a999-73ba-4467-87ff-823c6c59cbc3.png" width="20%">  
 
@@ -73,14 +70,14 @@ If anyone remember's this early 2000's business simulation video computer game, 
  - Introduce [GH Project Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c)
  - Show how to add “cards”
  
-### *8:40-9:10* Learning in practice: Add tasks to your GitHub Project Board
+### *2:30-3:00* Learning in practice: Add tasks to your GitHub Project Board
 
  - Each team member comes up with a topic with 2-3 sub topics
  - **Choose topic ideas and assign tasks** In the project, add tasks with the "+ Add tasks" button at the bottom of the "New" column. These need to be simple tasks that will take *~5 minutes*. 
  - **Make each of your tasks into issues** Make a bulleted list of 
  - **Make each of your subtasks issues** Within the main issue, you can make your bulleted tasks into issues. Click on the issue title on the webpage, scroll over to each subtask and on the right hand side you will see an icon to make it into an issue. 
 
-### *9:10-9:30* Lecture and Demo: Edit markdown documents in the browser
+### *3:00-3:15* Lecture and Demo: Edit markdown documents in the browser
 
  - Introduce more GitHub terminology
  - Adding text
@@ -89,11 +86,13 @@ If anyone remember's this early 2000's business simulation video computer game, 
  - Committing
  - History
  
-### *9:30-9:45* Learning in practice: Edit your sandbox markdown file and commit your changes
+### *3:15-3:30* Learning in practice: Edit your sandbox markdown file and commit your changes
 
+### *3:30 - 4:00* Coffee break!
+ 
 <img src="https://user-images.githubusercontent.com/75965120/194230867-fd1ff377-4f48-429f-b56f-7ef4a07c1a32.png" width="40%">  <img src="https://user-images.githubusercontent.com/75965120/194231023-7f0fff6c-a159-431e-af54-bdc383b9d2d0.png" width="40%">  
 
-### *9:45-10:00* Demo and Lecture: Using branches
+### *4:00-4:30* Demo and Lecture: Using branches
 
 Why do we need branches? Bad things happening if you are not careful about how and when you commit changes!
 
@@ -102,39 +101,23 @@ Why do we need branches? Bad things happening if you are not careful about how a
  - How to make sure you are on your branch
  - Work on [group name].md in our OWN branch
 
-### *10:00-10:30* Learning in practice: work on tasks in your own branch
+### *4:30-4:45* Learning in practice: work on tasks in your own branch
 
 <img align="right" src="https://user-images.githubusercontent.com/75965120/194231559-a5bdfc07-f48c-410f-9737-97d290c790ea.png" width="20%">  
 
  - **Find your branch** You can click on the hyperlink in the issue or find your branch on the [branches page of the repo](https://github.com/RWorkflow-Workshops/WSDS-StLouis/branches). Each branch will be named with the number of your issue and the name of the issue. 
  - Move all tasks on the project board to done. 
  - Work on your tasks in your branch. Move all tasks on the project board to from idea, ready, in progress, and done! 
+
+### *4:45-5:15* Pull requests?
+
+ - How to resolve pull requests and merge conflicts
  
-### *10:30-10:45* Lecture and Demo: Using pull requests
 
-Demo: Eli and Em doing their 2 pull request from their branches on bridges.md. Eli will commit to main. Em will commit to main after Eli and there will be a merge conflict!
+### *5:15-5:30* Discussion
 
- - What is a Pull Request
- - How to do a Pull Request from the browser
+### Materials for future learning
 
-### *10:45-11:00* :tea: Break with Light Refreshments :doughnut:
-
-### *11:00-11:30* Learning in practice: Take time to organize and do your pull requests
-
- - Add new tasks with the pull requests
- - Decide on commit order (aka, who will commit first, second, etc.)
- - As you complete pull requests and resolve the merge conflicts, you might come up with new tasks
-
-### *11:15-11:30* Lecture: GitHub issues
-
- - Quick introduction; show how to search for an issue and add to board
-
-### *11:30-11:45* Talk about next learning steps & demo
-
- - Other GitHub Kanban board features
- - Creating issues and using them to build branches and complete tasks (and auto move tasks across your Kanban board!)
  - More about [project management in GitHub](https://www.youtube.com/watch?v=MYNIXz9iViU)
-
-### *11:45-12:00* Discussion
 
 ## Thanks for coming!
