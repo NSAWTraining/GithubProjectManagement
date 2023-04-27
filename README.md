@@ -24,13 +24,13 @@ Git and GitHub are used throughout the data science community, not just to keep 
 
 Here, everyone will contribute to a markdown document and github project within the github browser. You and your team will contribute to one of the Providence topics! 
 
- - **Bridges**: (Molly and Christine's demo team) [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/bridges.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/6)
- - **Restaurants**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/restuarants.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/3/views/1)
- - **Parks**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/parks.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/8)
- - **Colleges**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/colleges.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/10)
- - **Music**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/music.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/13)
- - **Public Art**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/public_art.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/4)
- - **History**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/history.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/12)
+ - **Bridges**: (Molly and Christine's demo team) [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/bridges.md), [project](https://github.com/orgs/NSAWTraining/projects/1)
+ - **Restaurants**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/restuarants.md), [project](https://github.com/orgs/NSAWTraining/projects/2)
+ - **Parks**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/parks.md), [projects](https://github.com/orgs/NSAWTraining/projects/3)
+ - **Colleges**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/colleges.md), [projects](https://github.com/orgs/NSAWTraining/projects/4)
+ - **Music**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/music.md), [project](https://github.com/orgs/NSAWTraining/projects/3)
+ - **Public Art**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/public_art.md), [projects](https://github.com/orgs/NSAWTraining/projects/6)
+ - **History**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/history.md), [project](https://github.com/orgs/NSAWTraining/projects/7)
 
 
 ## Code of Conduct
@@ -45,21 +45,21 @@ In short, we expect each participant to follow the [workshop's code of conduct](
 
 **[Presentation slides](https://docs.google.com/presentation/d/12JIhUSuKiEVcRbWAUbm83zBQuUh7b2b2EDaHvUuJ1DE/edit#slide=id.p)**
 
-### *2:00-2:20*: Welcome & Warm Up Activity: Zoo Tycoon!
+### *2:00-2:20*: Welcome & Warm Up Activity: Odell Down Under!
 
 <img align="right" src="https://user-images.githubusercontent.com/75965120/193709452-6a94e75b-68cb-4ab2-83f5-4175d183da42.jpg" width="20%">  
 
-If anyone remember's this early 2000's business simulation video computer game, you'll recall that this world focus around building and running successful zoo scenarios. Here we will quickly do a simplified version with a focus on project managment. 
+If anyone remember's this early 2000's marine science video computer game, you may have acted as a shark, big, or small fish. Here we will quickly do a simplified version with a focus on project managment. 
 
  - Form groups of ~4 people
  - Set up a project board on the table or wall. Prepare 4 columns with blue masking tape for each stage of production: 
     - :clipboard: **Ideas**: Generate good, bad, and maybe ideas!
-       - Pick an exhibit to build (e.g., reptiles, mystical sea monsters, dinosaurs, insects, safari) and collaboratively decide what your exhibit needs and write down each "task" (aka drawing assignment) on a post-it (e.g., animals, toys for animals, benches, bathing pools). 
+       - Pick a marine animal to build (e.g., shark, tuna, crab, anchovy) and collaboratively decide what your exhibit needs and write down each "task" (aka drawing assignment) on a post-it (e.g., teeth, claws, fins, scales). 
     - :ticket: **Ready to work on**: The idea now has a clear path forward and someone can pick up the task. 
       - Organize tasks to get the ready for deligation. 
     - :construction_worker: **In progress**: Assign tasks and get to work! Let your team mates know you're on it.  
     - :heavy_check_mark: **Done**: You did it! Let your team mates know you got the job done.  
- - (5 min each:) Report out! What was in your zoo/exhibit and how efficient was the team at getting the task done? 
+ - (5 min each:) Report out! What were your animal components and how efficient was the team at getting the task done? 
 
 ### *2:20-2:30* Lecture and Demo: Introduce GitHub
 
