@@ -34,7 +34,7 @@ Here, everyone will contribute to a markdown document and github project within 
 
 ## Code of Conduct
 
-<img align="right" src="https://user-images.githubusercontent.com/75965120/193709013-78b841f6-c986-4cd8-9c82-9d42afe0a152.jpg" width="20%">  
+![Odell down under game box cover showing a fish](https://user-images.githubusercontent.com/75965120/193709013-78b841f6-c986-4cd8-9c82-9d42afe0a152.jpg)
 
 *Remember, this is a **"Yes, And!" environment**. There are no wrong answers!* We are all here to learn and support each other :raised_hands:
 
