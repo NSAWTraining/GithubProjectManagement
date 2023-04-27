@@ -46,7 +46,7 @@ In short, we expect each participant to follow the [workshop's code of conduct](
 
 ### *2:00-2:20*: Welcome & Warm Up Activity: Odell Down Under!
 
-<img align="right" src="https://user-images.githubusercontent.com/75965120/193709452-6a94e75b-68cb-4ab2-83f5-4175d183da42.jpg" width="20%">  
+<img align="right" src="https://en.wikipedia.org/wiki/Odell_Down_Under#/media/File:Odell_Down_Under.jpg" width="20%">  
 
 If anyone remember's this early 2000's marine science video computer game, you may have acted as a shark, big, or small fish. Here we will quickly do a simplified version with a focus on project managment. 
 
@@ -87,9 +87,7 @@ If anyone remember's this early 2000's marine science video computer game, you m
  
 ### *3:15-3:30* Learning in practice: Edit your sandbox markdown file and commit your changes
 
-### *3:30 - 4:00* Coffee break!
- 
-<img src="https://user-images.githubusercontent.com/75965120/194230867-fd1ff377-4f48-429f-b56f-7ef4a07c1a32.png" width="40%">  <img src="https://user-images.githubusercontent.com/75965120/194231023-7f0fff6c-a159-431e-af54-bdc383b9d2d0.png" width="40%">  
+### *3:30 - 4:00* :coffee: Coffee break! :cake:
 
 ### *4:00-4:30* Demo and Lecture: Using branches
 
