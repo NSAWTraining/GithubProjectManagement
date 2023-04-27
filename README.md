@@ -28,7 +28,6 @@ Here, everyone will contribute to a markdown document and github project within 
  - **Restaurants**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/restuarants.md), [project](https://github.com/orgs/NSAWTraining/projects/2)
  - **Parks**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/parks.md), [projects](https://github.com/orgs/NSAWTraining/projects/3)
  - **Colleges**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/colleges.md), [projects](https://github.com/orgs/NSAWTraining/projects/4)
- - **Music**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/music.md), [project](https://github.com/orgs/NSAWTraining/projects/3)
  - **Public Art**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/public_art.md), [projects](https://github.com/orgs/NSAWTraining/projects/6)
  - **History**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/history.md), [project](https://github.com/orgs/NSAWTraining/projects/7)
 
