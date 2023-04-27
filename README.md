@@ -4,9 +4,9 @@
 
 **Before the workshop, please send the organizers your GitHub username so we can add you to the workshop GitHub repositories that you will use.**
 
- - **[WSDS repository](https://github.com/RWorkflow-Workshops/WSDS-StLouis)**
+ - **[This repository](https://github.com/NSAWTraining/GithubProjectManagement)**
 
- - **[Workshop slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)**
+ - **[Workshop slides](https://docs.google.com/presentation/d/12JIhUSuKiEVcRbWAUbm83zBQuUh7b2b2EDaHvUuJ1DE/edit#slide=id.p)**
 
 ## Git-ting It Together: Learn to Use Git and GitHub for Your Projects
 
@@ -22,28 +22,28 @@ Git and GitHub are used throughout the data science community, not just to keep 
 
 ## Teams
 
-Here, everyone will contribute to a markdown document and github project within the github browser. You and your team will contribute to one of the St. Louis topics! 
+Here, everyone will contribute to a markdown document and github project within the github browser. You and your team will contribute to one of the Providence topics! 
 
- - **Bridges**: (Molly and Christine's demo team) [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/bridges.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/6)
- - **Restuarants**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/restuarants.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/3/views/1)
- - **Parks**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/parks.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/8)
- - **Colleges**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/colleges.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/10)
- - **Music**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/music.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/13)
- - **Public Art**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/public_art.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/4)
- - **History**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/history.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/12)
+ - **Bridges**: (Molly and Christine's demo team) [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/bridges.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/6)
+ - **Restaurants**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/restuarants.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/3/views/1)
+ - **Parks**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/parks.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/8)
+ - **Colleges**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/colleges.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/10)
+ - **Music**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/music.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/13)
+ - **Public Art**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/public_art.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/4)
+ - **History**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/history.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/12)
 
 
 ## Code of Conduct
 
 <img align="right" src="https://user-images.githubusercontent.com/75965120/193709013-78b841f6-c986-4cd8-9c82-9d42afe0a152.jpg" width="20%">  
 
-*Remember, this is a **"Yes, And!" enviornment**. There are no wrong answers!* We are all here to learn and support each other :raised_hands:
+*Remember, this is a **"Yes, And!" environment**. There are no wrong answers!* We are all here to learn and support each other :raised_hands:
 
 In short, we expect each participant to follow the [workshop's code of conduct](https://www.amstat.org/meetings/code-of-conduct). If you have any concerns, please reach out to the workshop organizers. 
 
 ## Agenda
 
-**[Presentation slides](https://docs.google.com/presentation/d/12JIhUSuKiEVcRbWAUbm83zBQuUh7b2b2EDaHvUuJ1DE/edit?usp=sharing)**
+**[Presentation slides](https://docs.google.com/presentation/d/12JIhUSuKiEVcRbWAUbm83zBQuUh7b2b2EDaHvUuJ1DE/edit#slide=id.p)**
 
 ### *2:00-2:20*: Welcome & Warm Up Activity: Zoo Tycoon!
 
@@ -105,7 +105,7 @@ Why do we need branches? Bad things happening if you are not careful about how a
 
 <img align="right" src="https://user-images.githubusercontent.com/75965120/194231559-a5bdfc07-f48c-410f-9737-97d290c790ea.png" width="20%">  
 
- - **Find your branch** You can click on the hyperlink in the issue or find your branch on the [branches page of the repo](https://github.com/RWorkflow-Workshops/WSDS-StLouis/branches). Each branch will be named with the number of your issue and the name of the issue. 
+ - **Find your branch** You can click on the hyperlink in the issue or find your branch on the [branches page of the repo](https://github.com/NSAWTraining/GithubProjectManagement/branches). Each branch will be named with the number of your issue and the name of the issue. 
  - Move all tasks on the project board to done. 
  - Work on your tasks in your branch. Move all tasks on the project board to from idea, ready, in progress, and done! 
 
