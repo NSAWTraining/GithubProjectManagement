@@ -1,9 +1,9 @@
-<img align=right src="https://github.com/ChristineStawitz-NOAA/NSAW2023/blob/main/sandbox/DRAFT_NSAWlogo_v2.png?raw=true" width=30% height=30%>
+<img align=right src="https://github.com/NSAWTraining/GithubProjectManagement/blob/main/sandbox/DRAFT_NSAWlogo_v2.png" width=30% height=30%>
 
 
 # Header 1
 
-> This is where your team will collaboratively work on your section! 
+> This is where you will work on your section! 
 
 ## Header 2
 
