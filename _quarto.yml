@@ -7,9 +7,9 @@ project:
   
 website: 
   page-navigation: true
-  title: "WSDS-StLouis" 
-  site-url: "https://github.com/RWorkflow-Workshops/WSDS-StLouis" 
-  repo-url: https://github.com/RWorkflow-Workshops/WSDS-StLouis
+  title: "GithubProjectManagement" 
+  site-url: "https://github.com/NSAWTraining" 
+  repo-url: https://github.com/NSAWTraining/GithubProjectManagement
   repo-actions: [edit, source, issue]
   favicon: "https://raw.githubusercontent.com/RVerse-Tutorials/rverse-tutorials.github.io/master/favicon.ico" 
   
@@ -47,7 +47,7 @@ website:
           - bridges.md 
           - parks.md 
           - public_art.md 
-          - restuarants.md 
+          - restaurants.md 
           - music.md
           - sports.md
           - history.md
