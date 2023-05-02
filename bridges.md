@@ -12,8 +12,7 @@
 
 ## Washington Bridge
 
-Add content here about this very important bridge
-
+Add content here about this very important bridge and its history
 
 ## Van Leesten Memorial Bridge, 2019
 
