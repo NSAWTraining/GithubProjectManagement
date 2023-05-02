@@ -1,8 +1,8 @@
-# Public Art of Providence, Rhode Island
+# Colleges of Providence, Rhode Island
 
-Edit this file to include a summary of public art in Providence, Rhode Island
+Edit this file to include a summary of colleges in Providence, Rhode Island
 
-## Public Art
+## College
 
 ### Detail 1
 Add details here including images, hours, location, etc.
