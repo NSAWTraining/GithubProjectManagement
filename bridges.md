@@ -12,7 +12,7 @@
 
 ## Washington Bridge
 
-Add content
+The pedestrian span is also a part of the Washington-Rochambeau National Historic Trail.
 
 ## Van Leesten Memorial Bridge, 2019
 
@@ -29,5 +29,4 @@ The Michael S. Van Leesten Memorial Bridge stands as the culmination of nearly 3
 - business and community leader
 - athlete
 - life-long resident of the city
-
 
