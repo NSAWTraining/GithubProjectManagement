@@ -60,7 +60,7 @@ If anyone remember's this early 2000's marine science video computer game, you m
     - :heavy_check_mark: **Done**: You did it! Let your team mates know you got the job done.  
  - (5 min each:) Report out! What were your animal components and how efficient was the team at getting the task done? 
 
-### *2:20-2:30* Lecture and Demo: Introduce GitHub
+### *2:20-2:40* Lecture and Demo: Introduce GitHub
 
 <img align="right" src="https://user-images.githubusercontent.com/75965120/194229808-6641a999-73ba-4467-87ff-823c6c59cbc3.png" width="20%">  
 
@@ -69,7 +69,7 @@ If anyone remember's this early 2000's marine science video computer game, you m
  - Introduce [GH Project Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c)
  - Show how to add “cards”
  
-### *2:30-3:00* Learning in practice: Add tasks to your GitHub Project Board
+### *2:40-3:00* Learning in practice: Add tasks to your GitHub Project Board
 
  - Each team member comes up with a topic with 2-3 sub topics
  - **Choose topic ideas and assign tasks** In the project, add tasks with the "+ Add tasks" button at the bottom of the "New" column. These need to be simple tasks that will take *~5 minutes*. 
