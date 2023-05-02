@@ -25,7 +25,7 @@ Git and GitHub are used throughout the data science community, not just to keep 
 Here, everyone will contribute to a markdown document and github project within the github browser. You and your team will contribute to one of the Providence topics! 
 
  - **Bridges**: (Molly and Christine's demo team) [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/bridges.md), [project](https://github.com/orgs/NSAWTraining/projects/1)
- - **Restaurants**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/restuarants.md), [project](https://github.com/orgs/NSAWTraining/projects/2)
+ - **Restaurants**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/restaurants.md), [project](https://github.com/orgs/NSAWTraining/projects/2)
  - **Parks**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/parks.md), [projects](https://github.com/orgs/NSAWTraining/projects/3)
  - **Colleges**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/colleges.md), [projects](https://github.com/orgs/NSAWTraining/projects/4)
  - **Public Art**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/public_art.md), [projects](https://github.com/orgs/NSAWTraining/projects/6)
