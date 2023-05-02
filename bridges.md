@@ -14,6 +14,7 @@
 
 Add content here about this very important bridge
 
+
 ## Van Leesten Memorial Bridge, 2019
 
 ![image](https://user-images.githubusercontent.com/53794202/232794666-252f0f5a-6e82-43bb-bbad-755cfd1420ec.png)
@@ -29,5 +30,4 @@ The Michael S. Van Leesten Memorial Bridge stands as the culmination of nearly 3
 - business and community leader
 - athlete
 - life-long resident of the city
-
 
