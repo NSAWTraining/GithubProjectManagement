@@ -15,7 +15,7 @@ website:
   
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Openscapes, 2022"
+    left: "&copy; CC-By Openscapes, 2023"
   
   sidebar:
     background: "#D9E3E4"
@@ -39,7 +39,7 @@ website:
         text: Home
       - href: schedule.md
         text: Schedule
-      - href: WSDS_2022.pdf
+      - href: NSAW_2023.pdf
         text: Slides
       - section: teamwork.md
         text: Team work
@@ -47,9 +47,8 @@ website:
           - bridges.md 
           - parks.md 
           - public_art.md 
-          - restaurants.md 
-          - music.md
-          - sports.md
+          - restaurants.md
+          - colleges.md
           - history.md
         
 
