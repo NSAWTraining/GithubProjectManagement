@@ -34,8 +34,6 @@ Here, everyone will contribute to a markdown document and github project within 
 
 ## Code of Conduct
 
-![Odell down under game box cover showing a fish](https://user-images.githubusercontent.com/75965120/193709013-78b841f6-c986-4cd8-9c82-9d42afe0a152.jpg)
-
 *Remember, this is a **"Yes, And!" environment**. There are no wrong answers!* We are all here to learn and support each other :raised_hands:
 
 In short, we expect each participant to follow the [workshop's code of conduct](https://www.amstat.org/meetings/code-of-conduct). If you have any concerns, please reach out to the workshop organizers. 
@@ -46,7 +44,7 @@ In short, we expect each participant to follow the [workshop's code of conduct](
 
 ### *2:00-2:20*: Welcome & Warm Up Activity: Aquarium!
 
-<img align="right" src="https://en.wikipedia.org/wiki/Odell_Down_Under#/media/File:Odell_Down_Under.jpg" width="20%">  
+![New england Aquarium Picture](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/sandbox/0.2.2.3.new_england_aquarium_2011_shark_and_ray_touch_tank_4.jpg)
 
 Here we will quickly do an exercise focused on project managment using building an aquarium as an example project, with sub-tasks (for example, exhibits in the aquarium!). 
 
