@@ -34,7 +34,7 @@ Here, everyone will contribute to a markdown document and github project within 
 
 ## Code of Conduct
 
-![Odell down under game box cover showing a fish](https://user-images.githubusercontent.com/75965120/193709013-78b841f6-c986-4cd8-9c82-9d42afe0a152.jpg)
+![Aquarium touch tank picture](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/sandbox/0.2.2.3.new_england_aquarium_2011_shark_and_ray_touch_tank_4.jpg)
 
 *Remember, this is a **"Yes, And!" environment**. There are no wrong answers!* We are all here to learn and support each other :raised_hands:
 
