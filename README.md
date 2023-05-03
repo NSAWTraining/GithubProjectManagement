@@ -44,16 +44,16 @@ In short, we expect each participant to follow the [workshop's code of conduct](
 
 **[Presentation slides](https://docs.google.com/presentation/d/12JIhUSuKiEVcRbWAUbm83zBQuUh7b2b2EDaHvUuJ1DE/edit#slide=id.p)**
 
-### *2:00-2:20*: Welcome & Warm Up Activity: Odell Down Under!
+### *2:00-2:20*: Welcome & Warm Up Activity: Aquarium!
 
 <img align="right" src="https://en.wikipedia.org/wiki/Odell_Down_Under#/media/File:Odell_Down_Under.jpg" width="20%">  
 
-If anyone remember's this early 2000's marine science video computer game, you may have acted as a shark, big, or small fish. Here we will quickly do a simplified version with a focus on project managment. 
+Here we will quickly do an exercise focused on project managment using building an aquarium as an example project, with sub-tasks (for example, exhibits in the aquarium!). 
 
  - Form groups of ~4 people
  - Set up a project board on the table or wall. Prepare 4 columns with blue masking tape for each stage of production: 
     - :clipboard: **Ideas**: Generate good, bad, and maybe ideas!
-       - Pick a marine animal to build (e.g., shark, tuna, crab, anchovy) and collaboratively decide what your exhibit needs and write down each "task" (aka drawing assignment) on a post-it (e.g., teeth, claws, fins, scales). 
+       - Pick an aquarium exhibit to build (e.g., touch tank, marine mammal center, giant ocean tank, sea turtle exhibit) and collaboratively decide what your exhibit needs and write down each "task" (aka drawing assignment) on a post-it (e.g., sand, fish, seals, crabs, seal toys, water, plexiglass). 
     - :ticket: **Ready to work on**: The idea now has a clear path forward and someone can pick up the task. 
       - Organize tasks to get the ready for deligation. 
     - :construction_worker: **In progress**: Assign tasks and get to work! Let your team mates know you're on it.  
@@ -61,8 +61,6 @@ If anyone remember's this early 2000's marine science video computer game, you m
  - (5 min each:) Report out! What were your animal components and how efficient was the team at getting the task done? 
 
 ### *2:20-2:40* Lecture and Demo: Introduce GitHub
-
-<img align="right" src="https://user-images.githubusercontent.com/75965120/194229808-6641a999-73ba-4467-87ff-823c6c59cbc3.png" width="20%">  
 
  - What are goals are for today
  - Introduce GitHub in the browser
@@ -106,14 +104,16 @@ Why do we need branches? Bad things happening if you are not careful about how a
  - Move all tasks on the project board to done. 
  - Work on your tasks in your branch. Move all tasks on the project board to from idea, ready, in progress, and done! 
 
-### *4:30-4:45* Pull requests slides and demo
+### *4:30-4:45* Demo and Lecture: Pull requests and merge conflicts
 
- - How to resolve pull requests and merge conflicts
+ - How to open a pull request
+ - How to merge a pull request
+ - How to resolve merge conflicts
  
 ### *4:45-5:15* Learning in practice: resolving pull requests and merge conflicts
 
-
 ### *5:15-5:30* Discussion
+ - How to convert project tasks to issues
 
 ### Materials for future learning
 
