@@ -25,7 +25,7 @@ Git and GitHub are used throughout the data science community, not just to keep 
 Here, everyone will contribute to a markdown document and github project within the github browser. You and your team will contribute to one of the Providence topics! 
 
  - **Bridges**: (Molly and Christine's demo team) [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/bridges.md), [project](https://github.com/orgs/NSAWTraining/projects/1)
- - **Restaurants**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/restuarants.md), [project](https://github.com/orgs/NSAWTraining/projects/2)
+ - **Restaurants**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/restaurants.md), [project](https://github.com/orgs/NSAWTraining/projects/2)
  - **Parks**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/parks.md), [projects](https://github.com/orgs/NSAWTraining/projects/3)
  - **Colleges**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/colleges.md), [projects](https://github.com/orgs/NSAWTraining/projects/4)
  - **Public Art**: [markdown doc](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/public_art.md), [projects](https://github.com/orgs/NSAWTraining/projects/6)
@@ -34,42 +34,38 @@ Here, everyone will contribute to a markdown document and github project within 
 
 ## Code of Conduct
 
-![Odell down under game box cover showing a fish](https://user-images.githubusercontent.com/75965120/193709013-78b841f6-c986-4cd8-9c82-9d42afe0a152.jpg)
-
 *Remember, this is a **"Yes, And!" environment**. There are no wrong answers!* We are all here to learn and support each other :raised_hands:
 
-In short, we expect each participant to follow the [workshop's code of conduct](https://www.amstat.org/meetings/code-of-conduct). If you have any concerns, please reach out to the workshop organizers. 
+In short, we expect each participant to follow the [workshop's code of conduct](https://docs.google.com/document/d/17LaR81rJBJ7Xe8YwHSdDmonfKQxDovZkAYA53vasrkw/edit#heading=h.5sy3fpkw4tb0). If you have any concerns, please reach out to the workshop organizers. 
 
 ## Agenda
 
 **[Presentation slides](https://docs.google.com/presentation/d/12JIhUSuKiEVcRbWAUbm83zBQuUh7b2b2EDaHvUuJ1DE/edit#slide=id.p)**
 
-### *2:00-2:20*: Welcome & Warm Up Activity: Odell Down Under!
+### *2:00-2:20*: Welcome & Warm Up Activity: Aquarium!
 
-<img align="right" src="https://en.wikipedia.org/wiki/Odell_Down_Under#/media/File:Odell_Down_Under.jpg" width="20%">  
+![New england Aquarium Picture](https://github.com/NSAWTraining/GithubProjectManagement/blob/main/sandbox/0.2.2.3.new_england_aquarium_2011_shark_and_ray_touch_tank_4.jpg)
 
-If anyone remember's this early 2000's marine science video computer game, you may have acted as a shark, big, or small fish. Here we will quickly do a simplified version with a focus on project managment. 
+Here we will quickly do an exercise focused on project managment using building an aquarium as an example project, with sub-tasks (for example, exhibits in the aquarium!). 
 
  - Form groups of ~4 people
  - Set up a project board on the table or wall. Prepare 4 columns with blue masking tape for each stage of production: 
     - :clipboard: **Ideas**: Generate good, bad, and maybe ideas!
-       - Pick a marine animal to build (e.g., shark, tuna, crab, anchovy) and collaboratively decide what your exhibit needs and write down each "task" (aka drawing assignment) on a post-it (e.g., teeth, claws, fins, scales). 
+       - Pick an aquarium exhibit to build (e.g., touch tank, marine mammal center, giant ocean tank, sea turtle exhibit) and collaboratively decide what your exhibit needs and write down each "task" (aka drawing assignment) on a post-it (e.g., sand, fish, seals, crabs, seal toys, water, plexiglass). 
     - :ticket: **Ready to work on**: The idea now has a clear path forward and someone can pick up the task. 
       - Organize tasks to get the ready for delegation. 
     - :construction_worker: **In progress**: Assign tasks and get to work! Let your team mates know you're on it.  
     - :heavy_check_mark: **Done**: You did it! Let your team mates know you got the job done.  
- - (5 min each:) Report out! What were your animal components and how efficient was the team at getting the task done? 
+ - (5 min) Report out! What were your animal components and how efficient was the team at getting the task done? 
 
-### *2:20-2:30* Lecture and Demo: Introduce GitHub
-
-<img align="right" src="https://user-images.githubusercontent.com/75965120/194229808-6641a999-73ba-4467-87ff-823c6c59cbc3.png" width="20%">  
+### *2:20-2:40* Lecture and Demo: Introduce GitHub
 
  - What are goals are for today
  - Introduce GitHub in the browser
  - Introduce [GH Project Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c)
  - Show how to add “cards”
  
-### *2:30-3:00* Learning in practice: Add tasks to your GitHub Project Board
+### *2:40-3:00* Learning in practice: Add tasks to your GitHub Project Board
 
  - Each team member comes up with a topic with 2-3 sub topics
  - **Choose topic ideas and assign tasks** In the project, add tasks with the "+ Add tasks" button at the bottom of the "New" column. These need to be simple tasks that will take *~5 minutes*. 
@@ -106,14 +102,17 @@ Why do we need branches? Bad things happening if you are not careful about how a
  - Move all tasks on the project board to done. 
  - Work on your tasks in your branch. Move all tasks on the project board to from idea, ready, in progress, and done! 
 
-### *4:30-4:45* Demo and Lecture: pull requests
+### *4:30-4:45* Demo and Lecture: Pull requests and merge conflicts
 
- - Opening a pull request
- - Resolving merge conflicts
- - Merging pull requests in
+ - How to open a pull request
+ - How to merge a pull request
+ - How to resolve merge conflicts
+
  
+### *4:45-5:15* Learning in practice: resolving pull requests and merge conflicts
 
 ### *5:15-5:30* Discussion
+ - How to convert project tasks to issues
 
 ### Materials for future learning
 

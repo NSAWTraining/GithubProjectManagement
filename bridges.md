@@ -12,7 +12,7 @@
 
 ## Washington Bridge
 
-The pedestrian span is also a part of the Washington-Rochambeau National Historic Trail.
+Add content here about this very important bridge and its history
 
 ## Van Leesten Memorial Bridge, 2019
 
