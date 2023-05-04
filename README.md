@@ -53,7 +53,7 @@ Here we will quickly do an exercise focused on project managment using building 
     - :clipboard: **Ideas**: Generate good, bad, and maybe ideas!
        - Pick an aquarium exhibit to build (e.g., touch tank, marine mammal center, giant ocean tank, sea turtle exhibit) and collaboratively decide what your exhibit needs and write down each "task" (aka drawing assignment) on a post-it (e.g., sand, fish, seals, crabs, seal toys, water, plexiglass). 
     - :ticket: **Ready to work on**: The idea now has a clear path forward and someone can pick up the task. 
-      - Organize tasks to get the ready for deligation. 
+      - Organize tasks to get the ready for delegation. 
     - :construction_worker: **In progress**: Assign tasks and get to work! Let your team mates know you're on it.  
     - :heavy_check_mark: **Done**: You did it! Let your team mates know you got the job done.  
  - (5 min) Report out! What were your animal components and how efficient was the team at getting the task done? 
@@ -107,6 +107,7 @@ Why do we need branches? Bad things happening if you are not careful about how a
  - How to open a pull request
  - How to merge a pull request
  - How to resolve merge conflicts
+
  
 ### *4:45-5:15* Learning in practice: resolving pull requests and merge conflicts
 
