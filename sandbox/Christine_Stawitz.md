@@ -11,5 +11,5 @@ Text with **bold**, _italic_, and [hyper-linked](https://github.com/ChristineSta
 
 You can ctrl+c an image from online and directly ctrl+p images into your .md. 
 
-![image](https://user-images.githubusercontent.com/47904621/236338422-64e377ac-23ff-474b-ab79-5a70c858e024.png)
+<img src="https://user-images.githubusercontent.com/47904621/236338422-64e377ac-23ff-474b-ab79-5a70c858e024.png"  width="300" height="300">
 
