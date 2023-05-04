@@ -55,7 +55,7 @@ If anyone remember's this early 2000's marine science video computer game, you m
     - :clipboard: **Ideas**: Generate good, bad, and maybe ideas!
        - Pick a marine animal to build (e.g., shark, tuna, crab, anchovy) and collaboratively decide what your exhibit needs and write down each "task" (aka drawing assignment) on a post-it (e.g., teeth, claws, fins, scales). 
     - :ticket: **Ready to work on**: The idea now has a clear path forward and someone can pick up the task. 
-      - Organize tasks to get the ready for deligation. 
+      - Organize tasks to get the ready for delegation. 
     - :construction_worker: **In progress**: Assign tasks and get to work! Let your team mates know you're on it.  
     - :heavy_check_mark: **Done**: You did it! Let your team mates know you got the job done.  
  - (5 min each:) Report out! What were your animal components and how efficient was the team at getting the task done? 
@@ -108,7 +108,9 @@ Why do we need branches? Bad things happening if you are not careful about how a
 
 ### *4:45-5:15* Pull requests?
 
- - How to resolve pull requests and merge conflicts
+ - Opening a pull request
+ - Resolving merge conflicts
+ - Merging pull requests in
  
 
 ### *5:15-5:30* Discussion
