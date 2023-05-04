@@ -89,7 +89,7 @@ If anyone remember's this early 2000's marine science video computer game, you m
 
 ### *3:30 - 4:00* :coffee: Coffee break! :cake:
 
-### *4:00-4:30* Demo and Lecture: Using branches
+### *4:00-4:15* Demo and Lecture: Using branches
 
 Why do we need branches? Bad things happening if you are not careful about how and when you commit changes!
 
@@ -98,7 +98,7 @@ Why do we need branches? Bad things happening if you are not careful about how a
  - How to make sure you are on your branch
  - Work on [group name].md in our OWN branch
 
-### *4:30-4:45* Learning in practice: work on tasks in your own branch
+### *4:15-4:30* Learning in practice: work on tasks in your own branch
 
 <img align="right" src="https://user-images.githubusercontent.com/75965120/194231559-a5bdfc07-f48c-410f-9737-97d290c790ea.png" width="20%">  
 
@@ -106,7 +106,7 @@ Why do we need branches? Bad things happening if you are not careful about how a
  - Move all tasks on the project board to done. 
  - Work on your tasks in your branch. Move all tasks on the project board to from idea, ready, in progress, and done! 
 
-### *4:45-5:15* Pull requests?
+### *4:30-4:45* Demo and Lecture: pull requests
 
  - Opening a pull request
  - Resolving merge conflicts
