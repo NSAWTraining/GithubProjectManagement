@@ -3,10 +3,13 @@
 
 # Header 1
 
-> This is where you will work on your section! 
+> Hi my name is Christine and I do Github trainings.
 
 ## Header 2
 
-Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
+Text with **bold**, _italic_, and [hyper-linked](https://github.com/ChristineStawitz-NOAA) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
 You can ctrl+c an image from online and directly ctrl+p images into your .md. 
+
+![image](https://user-images.githubusercontent.com/47904621/236338422-64e377ac-23ff-474b-ab79-5a70c858e024.png)
+
