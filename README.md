@@ -36,7 +36,7 @@ Here, everyone will contribute to a markdown document and github project within 
 
 *Remember, this is a **"Yes, And!" environment**. There are no wrong answers!* We are all here to learn and support each other :raised_hands:
 
-In short, we expect each participant to follow the [workshop's code of conduct](https://www.amstat.org/meetings/code-of-conduct). If you have any concerns, please reach out to the workshop organizers. 
+In short, we expect each participant to follow the [workshop's code of conduct](https://docs.google.com/document/d/17LaR81rJBJ7Xe8YwHSdDmonfKQxDovZkAYA53vasrkw/edit#heading=h.5sy3fpkw4tb0). If you have any concerns, please reach out to the workshop organizers. 
 
 ## Agenda
 
@@ -56,7 +56,7 @@ Here we will quickly do an exercise focused on project managment using building 
       - Organize tasks to get the ready for deligation. 
     - :construction_worker: **In progress**: Assign tasks and get to work! Let your team mates know you're on it.  
     - :heavy_check_mark: **Done**: You did it! Let your team mates know you got the job done.  
- - (5 min each:) Report out! What were your animal components and how efficient was the team at getting the task done? 
+ - (5 min) Report out! What were your animal components and how efficient was the team at getting the task done? 
 
 ### *2:20-2:40* Lecture and Demo: Introduce GitHub
 
