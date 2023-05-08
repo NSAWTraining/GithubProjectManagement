@@ -20,18 +20,28 @@ characterization, and processing of earth observations. By strengthening
 coordination, operational capabilities, workforce proficiency, and
 multisector partnerships, NOAA’s national and global leadership in AI
 supports science, public safety, and security.
-Specific AI examples include: (1) aerial and underwater surveys from ships
+Specific AI examples include:
+
+1. aerial and underwater surveys from ships
 and autonomous platforms to assess the abundance of marine mammal
-and fish populations, (2) robotics for deep-sea exploration, (3) quality
-control of weather observations, (4) improving physical parameterization
+and fish populations,
+2. robotics for deep-sea exploration,
+3. quality
+control of weather observations,
+4. improving physical parameterization
 for weather, ocean, ice modeling, and improving the computational
-performance of numerical models, (5) aiding weather warning generation,
-(6) operation of unmanned systems for bathymetric mapping, habitat
+performance of numerical models,
+5. aiding weather warning generation,
+6. operation of unmanned systems for bathymetric mapping, habitat
 characterization, hydrologic, oceanographic, atmospheric, fishery,
-ecosystem, and geographic surveys, (7) supporting partners in wildfire
-detection and movement, and (8) using machine learning (ML) for
+ecosystem, and geographic surveys,
+7. supporting partners in wildfire
+detection and movement, and
+8. using machine learning (ML) for
 reliable and efficient processing, interpretation, and utilization of earth
-observations. Despite this notable progress, the true potential for AI to
+observations.
+
+Despite this notable progress, the true potential for AI to
 advance NOAA’s mission has not been realized because all NOAA AI activity
 heretofore has originated within individual offices with no institutional
 support. Additionally, some development has been redundant because
