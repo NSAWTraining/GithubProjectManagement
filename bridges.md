@@ -12,7 +12,7 @@
 
 ## Washington Bridge
 
-Add content here about this very important bridge and its history
+Add content here about this very important bridge and its history. It was named for George Washington (this could be a lie)
 
 ![image](https://user-images.githubusercontent.com/53794202/236922947-7d450900-93b2-4c59-afea-b331a744cc1e.png)
 
@@ -28,6 +28,7 @@ The Michael S. Van Leesten Memorial Bridge stands as the culmination of nearly 3
 ### Michael S. Van Leesten, 1939-2019
 
 ![image](https://user-images.githubusercontent.com/53794202/232795569-25bcb349-abb5-4353-84e9-b563e47946d8.png)
+
 - Civil rights activist
 - Business and community leader
 - Athlete
