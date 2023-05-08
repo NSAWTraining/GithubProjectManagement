@@ -18,7 +18,7 @@ Annual survey data are processed to produce relative and absolute abundance and 
 ## Artificial Intelligence
 
 ### Background
-AI is not new to NOAA. NOAA’s robust experience with AI applications
+*AI is not new to NOAA*. NOAA’s robust experience with AI applications
 across a range of mission areas are already demonstrating significant
 improvements in performance and skill at greatly reduced costs and
 compute time in arenas as diverse as deep-sea exploration, habitat
