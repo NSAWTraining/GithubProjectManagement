@@ -3,7 +3,8 @@
 
 # Header 1
 
-> This is where you will work on your section! 
+> Let's do some cool fish stuff here! 
+> Learn about sablefish on wikipedia([[hyper-linked]](https://en.wikipedia.org/wiki/Sablefish)) 
 
 ## Header 2
 
