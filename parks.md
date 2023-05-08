@@ -1,6 +1,6 @@
 # Parks of Providence, Rhode Island
 
-Edit this file to include a summary of parks in Providence, Rhode Island
+https://www.rwpzoo.org/
 
 ## Roger Williams Park
 
