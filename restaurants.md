@@ -23,7 +23,7 @@ Edit this file to include a summary of restaurants in Providence, Rhode Island
   - [Champa](https://www.yelp.com/biz/champa-providence-3)
 
 ### Menu Items
-Add details and images here
+Add details and images of food items
 
 ### Ratings
 Add details and images here
