@@ -7,7 +7,7 @@ Edit this file to include a summary of colleges in Providence, Rhode Island
 ### Detail 1
 Add details here including images, hours, location, etc.
 
-| School | Location | Control | Type | Enrollment | Founded |
+| --- School --- | --- Location --- | --- Control --- | --- Type --- | --- Enrollment --- | --- Founded --- |
 | Brown University | Providence | Private | Doctoral | university | 10,446 | 1764 |
 | Bryant University | Smithfield | Private | Master's | university | 4,001 | 1863 |
 | College Unbound | Providence | Private | Special-focus | institution | 208 | 2009 |
