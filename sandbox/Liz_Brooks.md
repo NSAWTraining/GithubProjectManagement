@@ -1,4 +1,3 @@
-<img align=right src="https://github.com/NSAWTraining/GithubProjectManagement/blob/main/sandbox/DRAFT_NSAWlogo_v2.png" width=30% height=30%>
 
 # Great Big Header Number 1
 
@@ -33,3 +32,6 @@ Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings
 Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
 You can ctrl+c an image from online and directly ctrl+p images into your .md. 
+
+<img align=left src="https://github.com/NSAWTraining/GithubProjectManagement/blob/main/sandbox/DRAFT_NSAWlogo_v2.png" width=30% height=30%>
+
