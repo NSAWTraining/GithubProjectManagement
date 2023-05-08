@@ -6,7 +6,7 @@
 ## Header 2
 ### Hooray, a new header
 
-- [ ] I 
+- [x] I 
 - [ ] made
 - [ ] a
 - [ ] list
@@ -15,4 +15,4 @@ Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings
 
 You can ctrl+c an image from online and directly ctrl+p images into your .md. 
 
-![image](https://user-images.githubusercontent.com/88493416/236911148-d733ea75-1811-4aaa-aea7-ccf4b1325812.png)
+<img align=right src="https://user-images.githubusercontent.com/88493416/236911148-d733ea75-1811-4aaa-aea7-ccf4b1325812.png" width=30% height=30%>
