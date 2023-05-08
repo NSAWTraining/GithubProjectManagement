@@ -14,6 +14,8 @@ Let's **practice** some _super_ _fun_ code!
 >1) Read the prompts
 >2) Practice the prompts
 >3) Leave the prompts so you remember what to do later
+
+[Coding Tutorials](https://github.com/collections/learn-to-code)
 😺
 
 ### Original Instructions
