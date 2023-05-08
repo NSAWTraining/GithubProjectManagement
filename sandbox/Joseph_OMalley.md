@@ -18,3 +18,5 @@ You can ctrl+c an image from online and directly ctrl+p images into your .md.
 >
 
 [Providence's finest establishments - google map](https://www.google.com/search?rlz=1C1GCEA_enUS1041US1041&tbs=lf:1,lf_ui:9&tbm=lcl&q=providence+bars&rflfq=1&num=10&ved=2ahUKEwi3jYbPteb-AhUeGlkFHd3XAaQQtgN6BAgUEAc#rlfi=hd:;si:;mv:[[41.8255991,-71.4046845],[41.8162373,-71.4190757]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!1m4!1u1!2m2!1m1!1e1!1m4!1u1!2m2!1m1!1e2!1m4!1u22!2m2!21m1!1e1!2m1!1e2!2m1!1e1!2m1!1e3!3sIAE,lf:1,lf_ui:9)
+
+>playing with header of history
