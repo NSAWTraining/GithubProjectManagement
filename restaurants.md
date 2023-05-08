@@ -1,6 +1,6 @@
 # Restaurants of Providence, Rhode Island
 
-Edit this file to include a summary of restaurants in Providence, Rhode Island
+This is a short list of the top 10 restaurants in Providence, Rhode Island with images and links.
 
 ## Guest List
 - Pacific Islands
