@@ -2,10 +2,12 @@
 
 Edit this file to include a summary of parks in Providence, Rhode Island
 
-## Park
+## Roger Williams Park
 
-### Detail 1
-Add details here including images, hours, location, features, etc.
+### Events
+- Dinosaurs Among Us
+- Whiskey for Wildlife
+- Yoga with the Elephants
 
 ### Detail 2
 Add details here including images, hours, location, features, etc.
