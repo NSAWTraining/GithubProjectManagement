@@ -3,7 +3,7 @@
 
 # Header 1
 
-> This is where you will work on your section! 
+> This is where you will work on Bai's section! 
 
 ## Header 2
 
