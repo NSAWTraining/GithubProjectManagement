@@ -3,7 +3,7 @@
 
 # Header 1
 
-> Aloha, my name is Joe and I'm a green Github user. 
+> Aloha, my name is Joe and I'm a green Github user... 
 
 ## Header 2
 
