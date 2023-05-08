@@ -5,12 +5,14 @@
 
 Let's do some cool fish stuff here! 
 > 
-Learn about sablefish on wikipedia([[hyper-linked]](https://en.wikipedia.org/wiki/Sablefish)) 
+Learn about sablefish on [wikipedia](https://en.wikipedia.org/wiki/Sablefish)
 
-## Header 2
+## Notes
 
+Add an emoji
+>
 👨‍👧‍👧ish: 
-
+>
 How do we build table. Use .rmd and the cable or cable extended package
 
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
