@@ -1,8 +1,8 @@
 # Parks of Providence, Rhode Island
 
-https://www.rwpzoo.org/
-
 ## Roger Williams Park
+
+https://www.rwpzoo.org/
 
 ### Events
 - Dinosaurs Among Us
