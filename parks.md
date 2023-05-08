@@ -1,7 +1,13 @@
 # Parks of Providence, Rhode Island
 
-Edit this file to include a summary of parks in Providence, Rhode Island
+## Roger Williams Park
 
+https://www.rwpzoo.org/
+
+### Events
+- Dinosaurs Among Us
+- Whiskey for Wildlife
+- Yoga with the Elephants
 ## Park
 
 ### Detail 1

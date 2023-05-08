@@ -11,7 +11,7 @@
 
 **Deep 7 bottomfish in main Hawaiian Islands** _have very important culture values_
 
-You can ctrl+c an image from online and directly ctrl+p images into your .md. 
+
 ![image](https://user-images.githubusercontent.com/63683890/236912726-eb41d3ce-519a-43e1-8fde-1ddfa218ae52.png)
 
 ![image](https://user-images.githubusercontent.com/63683890/236915770-0e64178d-725d-422e-82a0-99f33ba999e0.png)

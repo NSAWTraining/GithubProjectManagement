@@ -1,5 +1,7 @@
 # Colleges of Providence, Rhode Island 
-| --- School --- | --- Location --- | --- Control --- | --- Type --- | --- Enrollment --- | --- Founded --- |
+
+|  School  |  Location  |  Control  |  Type  |  Enrollment  |  Founded  |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | Brown University | Providence | Private | Doctoral | university | 10,446 | 1764 |
 | Bryant University | Smithfield | Private | Master's | university | 4,001 | 1863 |
 | College Unbound | Providence | Private | Special-focus | institution | 208 | 2009 |
@@ -38,3 +40,4 @@ Address:  1 Cunningham Sq, Providence, RI 02918<br>
 
 ## Website
 https://www.google.com/maps/search/colleges+in+providence+ri/@41.834418,-71.4620936,13.1z
+
