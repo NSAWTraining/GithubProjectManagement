@@ -11,6 +11,8 @@
 
 Text with **bold**, _italic_, and [hyper-linked](https://github.com/ChristineStawitz-NOAA) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
+[National Stock Assessment Workshop](https://www.fisheries.noaa.gov/content/national-stock-assessment-workshops)
+
 You can ctrl+c an image from online and directly ctrl+p images into your .md. 
 ![image](https://user-images.githubusercontent.com/53794202/236910029-53cd6e1b-aa33-40c1-942b-d539a2d503e5.png)
 
