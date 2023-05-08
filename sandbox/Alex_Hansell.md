@@ -5,6 +5,8 @@
 
 > This is where you will work on your section! 
 
+> GitHub trainging workshop at the National Stock Assessment Workshop
+
 ## Header 2
 
 ### Header 3
