@@ -7,6 +7,10 @@
 
 ## Header 2
 
+### Header 3
+
+#### Header 4
+
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
 You can ctrl+c an image from online and directly ctrl+p images into your .md. 
