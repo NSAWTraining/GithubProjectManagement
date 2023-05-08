@@ -15,7 +15,7 @@ Add details here including images, hours, location, etc.
 
 **The Seas are Rising and So are We** <br>
 ARTIST: Josie Morway <br>
-DATE: 2022 <br>
+DATE: 2020 <br>
 MEDIUM: C2 Paint <br>
 LOCATION: 24 Child St, Warren <br>
 PARTNERS, SPONSORS: Town of Warren, Warren Arts and Cultural Commission <br>
