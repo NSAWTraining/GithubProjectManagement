@@ -28,5 +28,6 @@ The Michael S. Van Leesten Memorial Bridge stands as the culmination of nearly 3
 - civil rights activist
 - business and community leader
 - athlete
+- more cool things
 - life-long resident of the city
 
