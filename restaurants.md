@@ -8,7 +8,7 @@ Edit this file to include a summary of restaurants in Providence, Rhode Island
 Add details and images of food items
 
 ### Ratings
-Add details and images here
+I don't have enough information
 
 ## Website
 
