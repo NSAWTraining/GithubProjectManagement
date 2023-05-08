@@ -1,6 +1,6 @@
 <img align=right src="https://github.com/NSAWTraining/GithubProjectManagement/blob/main/sandbox/DRAFT_NSAWlogo_v2.png" width=30% height=30%>
 
-# Some Recurring Truths of Impermanence for Humankind
+# Some Recurring Truths of Impermanence
 
 - Life is difficult
 - Attachments cause difficulties
