@@ -26,10 +26,9 @@ Lent from the Steven and Alexandra Cohen Collection
 ![image](https://user-images.githubusercontent.com/59936250/236925910-470768cd-a113-4139-a058-7ccea2a1221e.png)
 
 
-### Detail 3
-![image](https://user-images.githubusercontent.com/132607494/236925590-f705ceb1-cabc-468d-b724-509e8651e3a7.png)
+### The Seas are Rising and So are We
+![image](https://user-images.githubusercontent.com/132607494/236925590-f705ceb1-cabc-468d-b724-509e8651e3a7.png) <br>
 
-**The Seas are Rising and So are We** <br>
 ARTIST: Josie Morway <br>
 DATE: 2022 <br>
 MEDIUM: C2 Paint <br>
