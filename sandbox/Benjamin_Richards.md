@@ -3,9 +3,11 @@
 
 # This is Ben
 
-> I am a fish biologist with Science Operations Division of the NOAA Pacific Islands Fisheries Science Center. 
+> I am a fish biologist with Science Operations Division of the NOAA Pacific Islands Fisheries Science Center. I am primarily responsible for the Bottomfish Fishery-Indepedent Survey in Hawaii and helping to coordinate NOAA's Artificial Intelligence Stragtegy.
 
-## Header 2
+## BFISH: The Bottomfish Fishery-Independent Survey in Hawaii
+
+**Accurate** and **precise** stock assessments are predicated on accurate and precise estimates of life history parameters, abundance, and catch across the range of the stock. In its continued efforts to improve the data used in stock assessments, the NOAA Pacific islands Fisheries Science Center (PIFSC) implemented a [Bottomfish Fishery-Independent Survey in Hawaii (BFISH)](https://www.fisheries.noaa.gov/inport/item/53762) in 2016. The BFISH survey utilizes two gear types, [Cooperative Research hook-and-line fishing operations (CRF)](https://www.fisheries.noaa.gov/inport/item/20969) and the [Modular Optical Underwater Survey System (MOUSS)](https://www.fisheries.noaa.gov/inport/item/20970). Survey sampling is conducted annually, typically in the fall, surrounding the Main Hawaiian Islands (MHI), in accordance with a stratified-random sampling design. Under this design, the waters surrounding the MHI are gridded at 500 meter resolution. Each grid is given attributes of depth, slope, and [seafloor hardness](https://www.fisheries.noaa.gov/inport/item/31636). Depth categories are Shallow (75-200 meters), Medium (200-300 meters) and Deep (300-400 meters). Slope categories are Low slope (0-10 degrees) and High (10-90 degrees). Seafloor categories are Hardbottom and Softbottom. Annual survey data are processed to produce relative and absolute abundance and biomass estimates for the [Stock Assessment for the Main Hawaiian Islands Deep 7 Bottomfish Complex](https://www.fisheries.noaa.gov/resource/document/stock-assessment-update-main-hawaiian-islands-deep-7-bottomfish-complex-2021).
 
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
