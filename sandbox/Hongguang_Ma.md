@@ -3,7 +3,7 @@
 
 # This is for the Github training at NSAW14
 
-> This is where you will work on your section! 
+> The intructors provided us a very useful overview on using Github for project management.
 
 ## NMFS weblink to the previous NSAW
 [https://www.fisheries.noaa.gov/content/national-stock-assessment-workshops]
