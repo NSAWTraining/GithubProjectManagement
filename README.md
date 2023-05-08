@@ -60,7 +60,7 @@ Here we will quickly do an exercise focused on project managment using building 
 
 ### *2:20-2:40* Lecture and Demo: Introduce GitHub
 
- - What are goals are for today
+ - What our goals are for today
  - Introduce GitHub in the browser
  - Introduce [GH Project Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c)
  - Show how to add “cards”

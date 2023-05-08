@@ -5,8 +5,31 @@
 
 > This is where you will work on your section! 
 
+> GitHub trainging workshop at the National Stock Assessment Workshop
+
+  1. a
+  2. b
+  3. c
+
 ## Header 2
+
+:coffee:
+
+:fish:
+
+:whale:
+
+:shark:
+
+:dog:
+
+
+### Header 3
+
+#### Header 4
 
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
 You can ctrl+c an image from online and directly ctrl+p images into your .md. 
+
+![image](https://user-images.githubusercontent.com/62656954/236912242-60712c75-c762-4cc8-a4fc-a7849fdba6d7.png)

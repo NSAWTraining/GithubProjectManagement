@@ -1,12 +1,14 @@
 <img align=right src="https://github.com/NSAWTraining/GithubProjectManagement/blob/main/sandbox/DRAFT_NSAWlogo_v2.png" width=30% height=30%>
 
+# Science is Cool!
 
-# Header 1
+## _Anarrhichthys ocellatus_
 
-> This is where you will work on your section! 
+**Wolf Eel** <br>
+![image](https://user-images.githubusercontent.com/132522463/236910099-702d47ea-4741-4754-b4d4-df7b7cbe26cf.png)<br>
+[wikipedia](https://en.wikipedia.org/wiki/Wolf_eel)
 
-## Header 2
+😄
 
-Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
-You can ctrl+c an image from online and directly ctrl+p images into your .md. 
+

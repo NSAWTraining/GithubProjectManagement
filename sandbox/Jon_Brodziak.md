@@ -1,12 +1,30 @@
 <img align=right src="https://github.com/NSAWTraining/GithubProjectManagement/blob/main/sandbox/DRAFT_NSAWlogo_v2.png" width=30% height=30%>
 
+# Some Recurring Truths for Humankind
 
-# Header 1
+- Life is difficult
+- Attachments cause difficulties
+- Attachments are resolvable
+- One resolution is to follow a middle path 
 
-> This is where you will work on your section! 
+## How can one follow a middle path?
 
-## Header 2
+- Right view 
+- Right intention 
+- Right speech 
+- Right action
+- Right livelihood
+- Right effort 
+- Right mindfulness
+- Right concentration
+- Meditate
 
-Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
+![image](https://user-images.githubusercontent.com/11236454/236912861-3e37f345-8041-464b-abcb-4fa997cb09a5.png)
+
+### Go for it!
+
+![image](https://user-images.githubusercontent.com/11236454/236913508-512e7191-39db-448b-b1ea-96cfd39bc404.png)
+
+
 
 You can ctrl+c an image from online and directly ctrl+p images into your .md. 
