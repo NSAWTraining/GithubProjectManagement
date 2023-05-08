@@ -12,7 +12,7 @@
 
 ## Washington Bridge
 
-Add content here about this very important bridge and its history
+Add content here about this very important bridge and its history. It was named for George Washington (this could be a lie)
 
 ## Van Leesten Memorial Bridge, 2019
 
