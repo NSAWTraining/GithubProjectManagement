@@ -11,6 +11,7 @@ Mayor Buddy
 
 ### Historical Detail 2
 The Pawsox left Pawtucket for Worcester
+
 ![image](https://user-images.githubusercontent.com/62656954/236925521-e95e1dfd-bb97-4e5f-970e-1421a21f0009.png)
 
 
