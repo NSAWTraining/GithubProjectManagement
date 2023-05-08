@@ -1,12 +1,14 @@
 <img align=right src="https://github.com/NSAWTraining/GithubProjectManagement/blob/main/sandbox/DRAFT_NSAWlogo_v2.png" width=30% height=30%>
 
 
-# Header 1
+# NSAW Training On Project Management in GitHub - _Task List_
+- [x] Complete Aquarium
+- [ ] Complete the park travel guide
+- [x] Update the sandbox file
+ 
 
-> This is where you will work on your section! 
 
-## Header 2
+## Some added context
+<img align=left src="https://upload.wikimedia.org/wikipedia/en/f/ff/SuccessKid.jpg" width=30% height=30%>
 
-Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
-
-You can ctrl+c an image from online and directly ctrl+p images into your .md. 
+**THIS IS GOING GREAT**
