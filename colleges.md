@@ -1,6 +1,37 @@
 # Colleges of Providence, Rhode Island 
 Add details of colleges of Providence, RI
 
+
+
+## Providence College
+
+### Campus
+Address:  1 Cunningham Sq, Providence, RI 02918<br>
+![image](https://user-images.githubusercontent.com/132522463/236925424-f3f36318-0fe8-45ab-8066-501e16057b1a.png)
+
+| --- School --- | --- Location --- | --- Control --- | --- Type --- | --- Enrollment --- | --- Founded --- |
+| Brown University | Providence | Private | Doctoral | university | 10,446 | 1764 |
+| Bryant University | Smithfield | Private | Master's | university | 4,001 | 1863 |
+| College Unbound | Providence | Private | Special-focus | institution | 208 | 2009 |
+| Community College of Rhode Island | 6 | Public | Associate's | college | 17,784 | 1964 |
+| Johnson & Wales University | Providence | Private | Master's | university | 6,235 | 1914 |
+| Naval War College | Newport | Public | Master's | university | 525 | 1884 |
+| New England Institute of Technology | East Greenwich | Private | Master's | university | 2,792 | 1940 |
+| Providence College | Providence | Private | Master's | university | 5,164 | 1917 |
+| Rhode Island College | Providence | Public | Master's | university | 8,642 | 1854 |
+| Rhode Island School of Design | Providence | Private | School of art | 2,328 | 1877 |
+| Roger Williams University | Bristol | Private | Master's | university | 5,695 | 1956 |
+| Salve Regina University | Newport | Private | Master's | university | 3,033 | 1934 |
+| University of Rhode Island | Kingston | Public | Doctoral | university | 20,720 | 1892 |
+
+### Detail 2
+Add details here including images, hours, location, etc.
+
+## Website
+
+Link websites and sources
+https://www.google.com/maps/search/colleges+in+providence+ri/@41.834418,-71.4620936,13.1z
+
 ## College- Johnson & Wales University
 Founded in 1914, Johnson & Wales University is a private, nonprofit, accredited institution with more than 8,100 graduate, undergraduate and online students at its campuses in Providence, Rhode Island, and Charlotte, North Carolina.
 
@@ -11,10 +42,3 @@ The university’s impact is global, with alumni in 128 countries pursuing caree
 ### Detail 1
 Mascot:
 ![image](https://user-images.githubusercontent.com/132607566/236925511-fc5836de-f1fa-485f-9198-9537814c108a.png)
-
-### Detail 2
-Add details here including images, hours, location, etc.
-
-## Website
-
-Link websites and sources
