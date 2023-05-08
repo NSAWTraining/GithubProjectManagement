@@ -1,22 +1,16 @@
-# History of Providence, Rhode Island
+![image](https://user-images.githubusercontent.com/9092781/236924870-593c5079-bf6a-4bad-8907-8f4b6a0248c4.png)
+![image](https://user-images.githubusercontent.com/9092781/236925390-d82dfc68-933f-4f3f-b6c4-d61de2dbf3ec.png)
+![image](https://user-images.githubusercontent.com/9092781/236924870-593c5079-bf6a-4bad-8907-8f4b6a0248c4.png)
+
+
+# GetLIT and Learn the History of Providence, Rhode Island
+VRoomVRoom History Tours Offers immersion in historical events of the past, while serving up artisinal cocktails from our professionally trained mixologists.
+
+![image](https://user-images.githubusercontent.com/9092781/236925623-29e6df3a-a33c-4f65-bdbe-80a4885fb4b3.png)
+
+
 
 Edit this file to include a summary of any historical topic in Providence, Rhode Island
 
 ## Historical Topic
-🚌
-### Historical Detail 1
-Mayor Buddy
 
-![image](https://user-images.githubusercontent.com/62656954/236925304-6080fcd6-459a-443b-9f33-6f6da40060b6.png)
-
-### Historical Detail 2
-The Pawsox left Pawtucket for Worcester
-
-![image](https://user-images.githubusercontent.com/62656954/236925521-e95e1dfd-bb97-4e5f-970e-1421a21f0009.png)
-
-
-## Website
-
-Detail 1: https://en.wikipedia.org/wiki/Buddy_Cianci
-
-Link websites and sources
