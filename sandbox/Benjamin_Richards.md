@@ -39,7 +39,7 @@ of a lack of awareness across the agency due to the absence of a
 coordinating directive or authority.
 
 ### Vision
-Through the NOAA AI Strategy, expansion of Artificial Intelligence
+Through the [NOAA AI Strategy](https://sciencecouncil.noaa.gov/wp-content/uploads/2023/04/2020-AI-Strategy.pdf), expansion of Artificial Intelligence
 is accelerated across the entire agency to make transformative
 improvements in NOAA mission performance and cost effectiveness.
 
@@ -55,6 +55,5 @@ consideration is that the objectives within any goals support and are
 supported by objectives under the other goals in this strategy, thus
 requiring matrixed collaboration during implementation. 
 
-Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
+![image](https://user-images.githubusercontent.com/126515875/236913350-6874ca60-c251-4b60-92ee-d3234a46a115.png)
 
-You can ctrl+c an image from online and directly ctrl+p images into your .md. 
