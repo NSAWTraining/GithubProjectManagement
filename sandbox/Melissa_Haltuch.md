@@ -13,7 +13,7 @@ Add an emoji
 >
 👨‍👧‍👧ish: 
 >
-How do we build table. Use .rmd and the cable or cable extended package
+How do we build table from .csv. Use .rmd and the cable or cable extended package with an rcode chunk to format
 
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
