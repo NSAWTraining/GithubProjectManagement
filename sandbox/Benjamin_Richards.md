@@ -9,6 +9,52 @@
 
 **Accurate** and **precise** stock assessments are predicated on accurate and precise estimates of life history parameters, abundance, and catch across the range of the stock. In its continued efforts to improve the data used in stock assessments, the NOAA Pacific islands Fisheries Science Center (PIFSC) implemented a [Bottomfish Fishery-Independent Survey in Hawaii (BFISH)](https://www.fisheries.noaa.gov/inport/item/53762) in 2016. The BFISH survey utilizes two gear types, [Cooperative Research hook-and-line fishing operations (CRF)](https://www.fisheries.noaa.gov/inport/item/20969) and the [Modular Optical Underwater Survey System (MOUSS)](https://www.fisheries.noaa.gov/inport/item/20970). Survey sampling is conducted annually, typically in the fall, surrounding the Main Hawaiian Islands (MHI), in accordance with a stratified-random sampling design. Under this design, the waters surrounding the MHI are gridded at 500 meter resolution. Each grid is given attributes of depth, slope, and [seafloor hardness](https://www.fisheries.noaa.gov/inport/item/31636). Depth categories are Shallow (75-200 meters), Medium (200-300 meters) and Deep (300-400 meters). Slope categories are Low slope (0-10 degrees) and High (10-90 degrees). Seafloor categories are Hardbottom and Softbottom. Annual survey data are processed to produce relative and absolute abundance and biomass estimates for the [Stock Assessment for the Main Hawaiian Islands Deep 7 Bottomfish Complex](https://www.fisheries.noaa.gov/resource/document/stock-assessment-update-main-hawaiian-islands-deep-7-bottomfish-complex-2021).
 
+## Artificial Intelligence
+
+### Background
+AI is not new to NOAA. NOAA’s robust experience with AI applications
+across a range of mission areas are already demonstrating significant
+improvements in performance and skill at greatly reduced costs and
+compute time in arenas as diverse as deep-sea exploration, habitat
+characterization, and processing of earth observations. By strengthening
+coordination, operational capabilities, workforce proficiency, and
+multisector partnerships, NOAA’s national and global leadership in AI
+supports science, public safety, and security.
+Specific AI examples include: (1) aerial and underwater surveys from ships
+and autonomous platforms to assess the abundance of marine mammal
+and fish populations, (2) robotics for deep-sea exploration, (3) quality
+control of weather observations, (4) improving physical parameterization
+for weather, ocean, ice modeling, and improving the computational
+performance of numerical models, (5) aiding weather warning generation,
+(6) operation of unmanned systems for bathymetric mapping, habitat
+characterization, hydrologic, oceanographic, atmospheric, fishery,
+ecosystem, and geographic surveys, (7) supporting partners in wildfire
+detection and movement, and (8) using machine learning (ML) for
+reliable and efficient processing, interpretation, and utilization of earth
+observations. Despite this notable progress, the true potential for AI to
+advance NOAA’s mission has not been realized because all NOAA AI activity
+heretofore has originated within individual offices with no institutional
+support. Additionally, some development has been redundant because
+of a lack of awareness across the agency due to the absence of a
+coordinating directive or authority.
+
+### Vision
+Through the NOAA AI Strategy, expansion of Artificial Intelligence
+is accelerated across the entire agency to make transformative
+improvements in NOAA mission performance and cost effectiveness.
+
+### Purpose
+The goals and supporting objectives in this strategy are intended to
+directly improve the understanding, coordination, awareness, and
+application of AI across all of NOAA. By directing organizational and
+process improvements to more rapidly transition research, strengthen
+and expand partnerships, and deliberately develop AI proficiency
+across the NOAA workforce, the guidance below will result in
+transformational advances in every NOAA mission area. A fundamental
+consideration is that the objectives within any goals support and are
+supported by objectives under the other goals in this strategy, thus
+requiring matrixed collaboration during implementation. 
+
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
 You can ctrl+c an image from online and directly ctrl+p images into your .md. 
