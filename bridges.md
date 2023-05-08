@@ -14,6 +14,9 @@
 
 Add content here about this very important bridge and its history
 
+![image](https://user-images.githubusercontent.com/53794202/236922947-7d450900-93b2-4c59-afea-b331a744cc1e.png)
+
+
 ## Van Leesten Memorial Bridge, 2019
 
 ![image](https://user-images.githubusercontent.com/53794202/232794666-252f0f5a-6e82-43bb-bbad-755cfd1420ec.png)
@@ -25,8 +28,7 @@ The Michael S. Van Leesten Memorial Bridge stands as the culmination of nearly 3
 ### Michael S. Van Leesten, 1939-2019
 
 ![image](https://user-images.githubusercontent.com/53794202/232795569-25bcb349-abb5-4353-84e9-b563e47946d8.png)
-- civil rights activist
-- business and community leader
-- athlete
-- life-long resident of the city
-
+- Civil rights activist
+- Business and community leader
+- Athlete
+- Life-long resident of the city
