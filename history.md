@@ -5,7 +5,7 @@ Edit this file to include a summary of any historical topic in Providence, Rhode
 ## Historical Topic
 🚌
 ### Historical Detail 1
-Mayor Buddy was convicted of felony assualt 
+Mayor Buddy
 
 ![image](https://user-images.githubusercontent.com/62656954/236925304-6080fcd6-459a-443b-9f33-6f6da40060b6.png)
 
