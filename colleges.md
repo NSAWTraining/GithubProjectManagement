@@ -23,6 +23,8 @@ An innovative educational leader, the university offers undergraduate and gradua
 
 The university’s impact is global, with alumni in 128 countries pursuing careers worldwide.
 
+## College- Brown
+blah blah blah
 ### Detail 1
 Mascot:
 ![image](https://user-images.githubusercontent.com/132607566/236925511-fc5836de-f1fa-485f-9198-9537814c108a.png)
