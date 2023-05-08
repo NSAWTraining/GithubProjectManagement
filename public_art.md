@@ -11,9 +11,13 @@ Edit this file to include a summary of public art in Providence, Rhode Island
 **Urs Fischer**
 
 Untitled (Lamp/Bear), 2005-06
+
 Painted and lacquered cast bronze, acrylic glass, LED lights,
+
 stainless steel interior framework
+
 23' x 21'4" x 24'7"
+
 Lent from the Steven and Alexandra Cohen Collection
 
 ### Detail 2
